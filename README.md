@@ -84,8 +84,7 @@ We analyze **four major polymers** commonly found in waste streams:
 
 ### Image 2: **Polyethylene (PE) & Polypropylene (PP)**
 
-![Chemical Structure 2](https://www.google.com/imgres?q=Polyethylene%20(PE)%20%26%20Polypropylene%20(PP)&imgurl=https%3A%2F%2Fwww.mdi.org%2Fwp-content%2Fuploads%2F2022%2F04%2FPolyethylene-and-Polypropylene.jpg&imgrefurl=https%3A%2F%2Fwww.mdi.org%2Fblog%2Fpost%2Fwhat-is-the-difference-between-polyethylene-and-polypropylene%2F&docid=83QOvpxLiMzoTM&tbnid=FK6Zk1WN8IMpMM&vet=12ahUKEwj1irPl3tiQAxXUn68BHbUFDoIQM3oECB4QAA..i&w=2048&h=1556&hcb=2&ved=2ahUKEwj1irPl3tiQAxXUn68BHbUFDoIQM3oECB4QAA
-)
+![Chemical Structure 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3urJx-TVRDghWMW8sW1N4CH6x5yJR4omUw&s)
 
 | Polymer | Formula | Notes |
 |--------|--------|-------|
