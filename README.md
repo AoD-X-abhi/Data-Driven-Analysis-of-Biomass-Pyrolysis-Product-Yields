@@ -103,7 +103,7 @@ We analyze **four major polymers** commonly found in waste streams:
 ### Image 3: **Polyethylene (Extended Chain)**
 
 <p align="center">
-  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3urJx-TVRDghWMW8sW1N4CH6x5yJR4omUw&s](https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fpj.2013.67/MediaObjects/41428_2014_Article_BFpj201367_Figa_HTML.jpg)" alt="Chemical Structure 2" width="450">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3urJx-TVRDghWMW8sW1N4CH6x5yJR4omUw&s](https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fpj.2013.67/MediaObjects/41428_2014_Article_BFpj201367_Figa_HTML.jpg)" alt="Chemical Structure 2" width="450">
 </p>
 
 - Shows **long-chain alkane structure**
