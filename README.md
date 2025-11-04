@@ -71,7 +71,7 @@ We analyze **four major polymers** commonly found in waste streams:
 
 ### Image 1: **Vinyl Chloride & Polyvinyl Chloride (PVC)**
 
-![Chemical Structure 1](Visualization\ChemicalStructure1.jpg)
+![Chemical Structure 1](https://www.google.com/imgres?q=Vinyl%20Chloride%20and%20Polyvinyl%20Chloride%20(PVC)&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fshutterstock%2Fphotos%2F1021247878%2Fdisplay_1500%2Fstock-vector-polyvinyl-chloride-pvc-and-vinyl-chloride-monomer-molecule-structural-chemical-formula-and-1021247878.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fpolyvinyl-chloride-pvc-vinyl-monomer-molecule-1021247878&docid=PU2bs8vU0-G_yM&tbnid=V-4Up-HDUwbwjM&vet=12ahUKEwicjZjr3tiQAxVikK8BHf9jHE8QM3oECBwQAA..i&w=1500&h=1426&hcb=2&ved=2ahUKEwicjZjr3tiQAxVikK8BHf9jHE8QM3oECBwQAA)
 
 | Molecule | Formula | Notes |
 |--------|--------|-------|
@@ -84,7 +84,7 @@ We analyze **four major polymers** commonly found in waste streams:
 
 ### Image 2: **Polyethylene (PE) & Polypropylene (PP)**
 
-![Chemical Structure 2](Visualization\ChemicalStructure2.jpg)
+![Chemical Structure 2](https://www.google.com/imgres?q=Polyethylene%20(PE)%20%26%20Polypropylene%20(PP)&imgurl=https%3A%2F%2Fwww.mdi.org%2Fwp-content%2Fuploads%2F2022%2F04%2FPolyethylene-and-Polypropylene.jpg&imgrefurl=https%3A%2F%2Fwww.mdi.org%2Fblog%2Fpost%2Fwhat-is-the-difference-between-polyethylene-and-polypropylene%2F&docid=83QOvpxLiMzoTM&tbnid=FK6Zk1WN8IMpMM&vet=12ahUKEwj1irPl3tiQAxXUn68BHbUFDoIQM3oECB4QAA..i&w=2048&h=1556&hcb=2&ved=2ahUKEwj1irPl3tiQAxXUn68BHbUFDoIQM3oECB4QAA)
 
 | Polymer | Formula | Notes |
 |--------|--------|-------|
@@ -97,7 +97,7 @@ We analyze **four major polymers** commonly found in waste streams:
 
 ### Image 3: **Polyethylene (Extended Chain)**
 
-![Chemical Structure](Visualization\ChemicalStructure3.jpg)
+![Chemical Structure](https://www.google.com/imgres?q=Polyethylene%20(Extended%20Chain)&imgurl=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F382238177%2Ffigure%2Ffig1%2FAS%3A11431281272758096%401724241853978%2FSchematic-of-the-chain-extension-process-of-polyethylene-terephthalate-PET-using-SMA.png&imgrefurl=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FSchematic-of-the-chain-extension-process-of-polyethylene-terephthalate-PET-using-SMA_fig1_382238177&docid=4waZIyj7qtn5BM&tbnid=Z57nuD9ZMM-OsM&vet=12ahUKEwjq47PU3tiQAxX2m68BHUpKDQ4QM3oECBcQAA..i&w=850&h=163&hcb=2&itg=1&ved=2ahUKEwjq47PU3tiQAxX2m68BHUpKDQ4QM3oECBcQAA)
 
 - Shows **long-chain alkane structure**
 - Explains **high thermal stability**
