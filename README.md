@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/PyroYieldAI)](https://github.com/yourusername/PyroYieldAI/issues)
+[![GitHub issues](https://img.shields.io/github/issues/AoD-X-abhi/Data-Driven-Analysis-of-Biomass-Pyrolysis-Product-Yields)](https://github.com/AoD-X-abhi/Data-Driven-Analysis-of-Biomass-Pyrolysis-Product-Yields/issues)
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.xxxxxx-blue)](https://doi.org/10.5281/zenodo.xxxxxx)
 
 ---
