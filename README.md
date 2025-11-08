@@ -112,13 +112,13 @@ We analyze **four major polymers** commonly found in waste streams:
 
 
 ## Clone the repository
-git clone https://github.com/AoD-X-abhi/Data-Driven-Analysis-of-Biomass-Pyrolysis-Product-Yields.git
-cd Data-Driven-Analysis-of-Biomass-Pyrolysis-Product-Yields
+- git clone https://github.com/AoD-X-abhi/Data-Driven-Analysis-of-Biomass-Pyrolysis-Product-Yields.git
+- cd Data-Driven-Analysis-of-Biomass-Pyrolysis-Product-Yields
 
 ## Create conda environment
-conda create -n pyroyield python=3.10
-conda activate pyroyield
+- conda create -n pyroyield python=3.10
+- conda activate pyroyield
 
 ## Install dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
